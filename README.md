@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente estou trabalhando como **Analista de suporte de TI**
 
-- 🌱 Atualmente estou aprendendo **HTML, CSS e JavaScript**
+- 🌱 Atualmente estou aprendendo mais sobre **HTML, CSS e JavaScript**
 
 - 📫 Você me acha através do e-mail **fabio.vicente1111@gmail.com**
 
